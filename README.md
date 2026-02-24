@@ -6,11 +6,14 @@ Project Objective
 
 The objective of this project was to analyze a European pharmacy distributor operating across 8 countries and help stakeholders understand:
 
-**Sales & profitability performance by country, region, and pharmacy
+Sales & profitability performance by country, region, and pharmacy
+
 Product and brand contribution to revenue and margin
+
 Regional impact on overall business performance
+
 Seasonal and promotional effects on profitability
-**
+
 The dashboard was designed for executive-level stakeholders, focusing on margin, geographic performance, and operational efficiency.
 
 **1️. Sales & Profit Over Time**
@@ -21,8 +24,11 @@ Untisold increased by 4.7%
 
 Insights:
 Clear seasonal fluctuations visible across months
+
 Strong mid-year and Q4 performance
+
 Sales growth is supported by margin stability
+
 Promoted sales slightly declined (-0.6%), indicating limited dependency on promotions
 
 **2️. Country & Regional Contribution**
@@ -51,8 +57,11 @@ Italy → Urban
 
 Insight:
 Customer purchasing behavior differs by geography:
+
 Rural Germany pharmacies are highly productive
+
 Suburban France shows strong margin generation
+
 Urban Italy performs well in volume and revenue
 
 This suggests targeted inventory and marketing strategies by region type.
@@ -75,6 +84,7 @@ Profit represents ~28.11% of total value
 
 ![Sales Overview](images/top_products)
 ![Sales Overview](images/unpopular_products)
+
 Top Performing Products
 
 - AntiBioX ACE Inhibitor 400 mg
@@ -129,6 +139,7 @@ Stable ~28% profit margins
 Strong results are concentrated in major economic hubs, indicating demand strength rather than pricing differences.
 
 Key Insight:
+
 Margin consistency across top branches suggests standardized pricing, stable cost control, and strong operational discipline.
 
 Below-Average Pharmacies
