@@ -6,11 +6,11 @@ Project Objective
 
 The objective of this project was to analyze a European pharmacy distributor operating across 8 countries and help stakeholders understand:
 
-Sales & profitability performance by country, region, and pharmacy
+**Sales & profitability performance by country, region, and pharmacy
 Product and brand contribution to revenue and margin
 Regional impact on overall business performance
 Seasonal and promotional effects on profitability
-
+**
 The dashboard was designed for executive-level stakeholders, focusing on margin, geographic performance, and operational efficiency.
 
 **1️. Sales & Profit Over Time**
@@ -112,6 +112,7 @@ Yes (Prefer Generic): 14.28%
 No (Prefer Branded): 85.72%
 
 This suggests:
+
 Brand trust is critical in pharmaceutical purchasing
 Pricing strategy may support premium positioning
 Generic expansion has limited short-term upside
