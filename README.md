@@ -2,7 +2,7 @@
 
 ![Sales Overview](images/overview)
 
-Project Objective
+**Project Objective**
 
 The objective of this project was to analyze a European pharmacy distributor operating across 8 countries and help stakeholders understand:
 
@@ -66,7 +66,7 @@ Top Revenue Brands:
 - GlucoSafe
 - MeuroMed
 
-5️. Margin & Cost Structure
+5️.** Margin & Cost Structure**
 
 Cost vs Profit analysis shows:
 Cost represents ~71.9% of total value
@@ -75,7 +75,7 @@ Profit represents ~28.11% of total value
 ![Sales Overview](images/top_products)
 ![Sales Overview](images/unpopular_products)
 
-Top Performing Products
+**Top Performing Products**
 
 - AntiBioX ACE Inhibitor 400 mg
 - NeuroMed Antidepressant 100 mg
@@ -90,7 +90,7 @@ Key Insight
 - AntiBioX and NeuroMed appear as repeated high-performing brands, indicating strong brand equity.
 
 
-Bottom-performing products include:
+**Bottom-performing products** 
 - VitaCare Antacid 10 mg
 - DermRx Soft Sunscreen Bright
 - FreshLine Body Wash Bright
@@ -116,7 +116,7 @@ Generic expansion has limited short-term upside
 
 ![Sales Overview](images/details)
 
-Top Performing Pharmacies
+**Top Performing Pharmacies**
 Leading contributors include Milan, Hamburg, Utrecht, Lyon, and Munich.
 
 These locations show:
@@ -129,7 +129,7 @@ Key Insight:
 
 Margin consistency across top branches suggests standardized pricing, stable cost control, and strong operational discipline.
 
-Below-Average Pharmacies
+**Below-Average Pharmacies**
 These include Vienna, Bruges, Poznań, Bilbao, and Rome.
 
 These locations show:
@@ -143,7 +143,7 @@ Weaker branches tend to be in smaller or lower-demand markets.
 
 
 
-This project demonstrates:
+**This project demonstrates**:
 
 - Multi-level drill-down analysis (Country → Region → Pharmacy)
 - Margin-focused performance evaluation
