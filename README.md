@@ -1,5 +1,6 @@
 # Pharmacy-Sales-Profitability-Analytics-Data-Challenge
 
+![Sales Overview](images/data_model)
 ![Sales Overview](images/overview)
 
 **Project Objective**
