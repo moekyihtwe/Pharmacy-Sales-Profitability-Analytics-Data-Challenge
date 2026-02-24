@@ -1,0 +1,80 @@
+#Project Approach
+1️. Business-First Thinking
+I approached this project from a business strategy perspective rather than a visualization-first mindset.
+Before building dashboards, I defined the core executive questions:
+
+What drives revenue?
+What drives profit?
+Where is margin pressure coming from?
+Which regions and pharmacies underperform?
+Is growth volume-driven or pricing-driven?
+This ensured that the data model and measures were built around decision-making, not visuals.
+
+2️. Data Modeling Strategy
+I implemented a simplified star-schema model to ensure scalability, clarity, and performance.
+
+Fact Table
+This table captures transactional-level sales performance.
+
+Dimension Tables
+DimDate
+DimProduct
+DimPharmacy
+
+This structure ensures:
+Clean one-to-many relationships
+Clear filtering logic
+No ambiguous joins
+High performance for aggregation
+
+3️. Measure-Driven Design (DAX Logic)
+
+Instead of relying on calculated columns, I used DAX measures for dynamic analysis:
+Core Measures:
+Sales
+Cost
+Profit
+Profit %
+UnitSold
+PromoSales
+MoM %
+
+I also created:
+Pharmacy Sale Status classification (Good / Below Avg)
+Parameter table for dynamic metric switching
+
+This allowed:
+Flexible KPI toggling
+Dynamic comparison logic
+Scalable model expansion
+
+4️. Analytical Framework
+I structured the analysis in four layers:
+
+Step 1 – Revenue Structure
+Sales by Country
+Sales by Product
+Sales by Pharmacy
+
+Brand concentration analysis
+Goal: Identify revenue concentration and geographic dependency.
+Step 2 – Profitability & Margin Analysis
+Sales vs Cost comparison
+Profit % stability
+High-revenue / low-margin detection
+Promotion impact analysis
+Goal: Determine whether growth is sustainable and margin-secure.
+
+Step 3 – Geographic & Operational Performance
+Pharmacy-level performance benchmarking
+Regional clustering
+Volume vs Margin comparison
+Underperforming branch identification
+Goal: Evaluate operational execution consistency.
+
+Step 4 – Product Portfolio Optimization
+Top 10 vs Bottom 10 comparison
+Brand dominance detection
+Long-tail product analysis
+Generic vs branded preference evaluation
+Goal: Assess portfolio concentration and optimization opportunities.
