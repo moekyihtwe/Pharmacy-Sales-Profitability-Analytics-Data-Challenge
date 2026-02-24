@@ -6,13 +6,13 @@ Project Objective
 
 The objective of this project was to analyze a European pharmacy distributor operating across 8 countries and help stakeholders understand:
 
-Sales & profitability performance by country, region, and pharmacy
+- Sales & profitability performance by country, region, and pharmacy
 
-Product and brand contribution to revenue and margin
+- Product and brand contribution to revenue and margin
 
-Regional impact on overall business performance
+- Regional impact on overall business performance
 
-Seasonal and promotional effects on profitability
+- Seasonal and promotional effects on profitability
 
 The dashboard was designed for executive-level stakeholders, focusing on margin, geographic performance, and operational efficiency.
 
@@ -21,15 +21,6 @@ Total Sales: $4.41M
 Total Profit: $1.24M
 Profit growth: +4.9% YoY
 Untisold increased by 4.7%
-
-Insights:
-Clear seasonal fluctuations visible across months
-
-Strong mid-year and Q4 performance
-
-Sales growth is supported by margin stability
-
-Promoted sales slightly declined (-0.6%), indicating limited dependency on promotions
 
 **2️. Country & Regional Contribution**
 Top Countries by Revenue & Profit:
@@ -56,13 +47,12 @@ France → Suburban
 Italy → Urban
 
 Insight:
-Customer purchasing behavior differs by geography:
 
-Rural Germany pharmacies are highly productive
+ Rural Germany pharmacies are highly productive
 
-Suburban France shows strong margin generation
+- Suburban France shows strong margin generation
 
-Urban Italy performs well in volume and revenue
+- Urban Italy performs well in volume and revenue
 
 This suggests targeted inventory and marketing strategies by region type.
 
@@ -95,13 +85,10 @@ Top Performing Products
 - RxNova Antibiotic 100 g
 
 Key Insight
-The top 10 products generate ~14x more revenue than the bottom 10.
-Prescription-related medications dominate revenue contribution.
-AntiBioX and NeuroMed appear as repeated high-performing brands, indicating strong brand equity.
+- The top 10 products generate ~14x more revenue than the bottom 10.
+- Prescription-related medications dominate revenue contribution.
+- AntiBioX and NeuroMed appear as repeated high-performing brands, indicating strong brand equity.
 
-This suggests:
-Revenue concentration risk
-Heavy reliance on a few therapeutic categories
 
 Bottom-performing products include:
 - VitaCare Antacid 10 mg
@@ -146,10 +133,10 @@ Below-Average Pharmacies
 These include Vienna, Bruges, Poznań, Bilbao, and Rome.
 
 These locations show:
-Lower sales volume
-Reduced product turnover
-Margins slightly lower but still stable
-Underperformance appears volume-driven, not margin-driven, indicating weaker local demand rather than pricing issues.
+- Lower sales volume
+- Reduced product turnover
+- Margins slightly lower but still stable
+- Underperformance appears volume-driven, not margin-driven, indicating weaker local demand rather than pricing issues.
 
 Stronger pharmacies are concentrated in large economic hubs and dense urban regions.
 Weaker branches tend to be in smaller or lower-demand markets.
